@@ -26,6 +26,3 @@ To launch the Todo App on your local machine, follow these steps:
 5. Open your web browser and visit `http://localhost:3000` to access the Todo App.
 
 Note: Make sure you have Node.js and npm installed on your machine before running the above commands.
-
-
-Enjoy using the Todo App and stay organized with your tasks!
